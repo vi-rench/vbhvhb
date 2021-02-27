@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: mediumspringgreen;
+}
+
+header{
+    background-color:lime ;
+    font-family: sans-serif;
+
+}
+h1{
+    color:Fuchsia;
+    text-align:center;
+}
+footer{
+    color: Aquamarine;
+    background-color: Crimson;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    border: 3px solid GreenYellow;
+}
+
+main img {
+    border: 10px solid rgb(42, 250, 0);
+    text-decoration: none;
+
+}
+main{
+    padding: 30px;
+}
